@@ -1,3 +1,5 @@
 Some bold text 2
 More text added
-More text added 4
+<<<<<<< HEAD
+More text added 7
+>>>>>>> 078bb8b4707a48e9fbcaaa3dba0178786f6081fd
